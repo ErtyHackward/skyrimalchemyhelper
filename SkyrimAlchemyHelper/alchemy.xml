@@ -1,0 +1,1281 @@
+<?xml version="1.0"?>
+<AlchemyBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Effects>
+    <Effect>
+      <Id>0</Id>
+      <Name>Бешенство</Name>
+      <Value>540</Value>
+    </Effect>
+    <Effect>
+      <Id>1</Id>
+      <Name>Водное дыхание</Name>
+      <Value>642</Value>
+    </Effect>
+    <Effect>
+      <Id>2</Id>
+      <Name>Восстановление запаса сил</Name>
+      <Value>207</Value>
+    </Effect>
+    <Effect>
+      <Id>3</Id>
+      <Name>Восстановление здоровья</Name>
+      <Value>172</Value>
+    </Effect>
+    <Effect>
+      <Id>4</Id>
+      <Name>Восстановление магии</Name>
+      <Value>207</Value>
+    </Effect>
+    <Effect>
+      <Id>5</Id>
+      <Name>Замедление</Name>
+      <Value>1582</Value>
+    </Effect>
+    <Effect>
+      <Id>6</Id>
+      <Name>Затяжной урон запасу сил</Name>
+      <Value>81</Value>
+    </Effect>
+    <Effect>
+      <Id>7</Id>
+      <Name>Затяжной урон здоровью</Name>
+      <Value>543</Value>
+    </Effect>
+    <Effect>
+      <Id>8</Id>
+      <Name>Затяжной урон магии</Name>
+      <Value>452</Value>
+    </Effect>
+    <Effect>
+      <Id>9</Id>
+      <Name>Исцеление болезней</Name>
+      <Value>134</Value>
+    </Effect>
+    <Effect>
+      <Id>10</Id>
+      <Name>Невидимость</Name>
+      <Value>1680</Value>
+    </Effect>
+    <Effect>
+      <Id>11</Id>
+      <Name>Опустошение запаса сил</Name>
+      <Value>338</Value>
+    </Effect>
+    <Effect>
+      <Id>12</Id>
+      <Name>Опустошение здоровья</Name>
+      <Value>39</Value>
+    </Effect>
+    <Effect>
+      <Id>13</Id>
+      <Name>Опустошение магии</Name>
+      <Value>98</Value>
+    </Effect>
+    <Effect>
+      <Id>14</Id>
+      <Name>Паралич</Name>
+      <Value>1797</Value>
+    </Effect>
+    <Effect>
+      <Id>15</Id>
+      <Name>Повреждение регенерации запаса сил</Name>
+      <Value>1017</Value>
+    </Effect>
+    <Effect>
+      <Id>16</Id>
+      <Name>Повреждение регенерации магии</Name>
+      <Value>1696</Value>
+    </Effect>
+    <Effect>
+      <Id>17</Id>
+      <Name>Повышение запаса сил</Name>
+      <Value>455</Value>
+    </Effect>
+    <Effect>
+      <Id>18</Id>
+      <Name>Повышение здоровья</Name>
+      <Value>531</Value>
+    </Effect>
+    <Effect>
+      <Id>19</Id>
+      <Name>Повышение искусства лучника</Name>
+      <Value>759</Value>
+    </Effect>
+    <Effect>
+      <Id>20</Id>
+      <Name>Повышение искусства торговли</Name>
+      <Value>303</Value>
+    </Effect>
+    <Effect>
+      <Id>21</Id>
+      <Name>Повышение магии</Name>
+      <Value>455</Value>
+    </Effect>
+    <Effect>
+      <Id>22</Id>
+      <Name>Повышение навыка: блокирование</Name>
+      <Value>354</Value>
+    </Effect>
+    <Effect>
+      <Id>23</Id>
+      <Name>Повышение навыка: взлом</Name>
+      <Value>165</Value>
+    </Effect>
+    <Effect>
+      <Id>24</Id>
+      <Name>Повышение навыка: восстановление</Name>
+      <Value>759</Value>
+    </Effect>
+    <Effect>
+      <Id>25</Id>
+      <Name>Повышение навыка: двуручное оружие</Name>
+      <Value>759</Value>
+    </Effect>
+    <Effect>
+      <Id>26</Id>
+      <Name>Повышение навыка: зачарование</Name>
+      <Value>90</Value>
+    </Effect>
+    <Effect>
+      <Id>27</Id>
+      <Name>Повышение навыка: изменение</Name>
+      <Value>303</Value>
+    </Effect>
+    <Effect>
+      <Id>28</Id>
+      <Name>Повышение навыка: иллюзия</Name>
+      <Value>607</Value>
+    </Effect>
+    <Effect>
+      <Id>29</Id>
+      <Name>Повышение навыка: карманные кражи</Name>
+      <Value>759</Value>
+    </Effect>
+    <Effect>
+      <Id>30</Id>
+      <Name>Повышение навыка: колдовство</Name>
+      <Value>483</Value>
+    </Effect>
+    <Effect>
+      <Id>31</Id>
+      <Name>Повышение навыка: кузнечное дело</Name>
+      <Value>531</Value>
+    </Effect>
+    <Effect>
+      <Id>32</Id>
+      <Name>Повышение навыка: легкая броня</Name>
+      <Value>354</Value>
+    </Effect>
+    <Effect>
+      <Id>33</Id>
+      <Name>Повышение навыка: одноручное оружие</Name>
+      <Value>759</Value>
+    </Effect>
+    <Effect>
+      <Id>34</Id>
+      <Name>Повышение навыка: разрушение</Name>
+      <Value>966</Value>
+    </Effect>
+    <Effect>
+      <Id>35</Id>
+      <Name>Повышение навыка: скрытность</Name>
+      <Value>759</Value>
+    </Effect>
+    <Effect>
+      <Id>36</Id>
+      <Name>Повышение навыка: тяжелая броня</Name>
+      <Value>354</Value>
+    </Effect>
+    <Effect>
+      <Id>37</Id>
+      <Name>Повышение переносимого веса</Name>
+      <Value>1337</Value>
+    </Effect>
+    <Effect>
+      <Id>38</Id>
+      <Name>Регенерация запаса сил</Name>
+      <Value>1135</Value>
+    </Effect>
+    <Effect>
+      <Id>39</Id>
+      <Name>Регенерация здоровья</Name>
+      <Value>1135</Value>
+    </Effect>
+    <Effect>
+      <Id>40</Id>
+      <Name>Регенерация магии</Name>
+      <Value>1135</Value>
+    </Effect>
+    <Effect>
+      <Id>41</Id>
+      <Name>Сопротивление магии</Name>
+      <Value>324</Value>
+    </Effect>
+    <Effect>
+      <Id>42</Id>
+      <Name>Сопротивление огню</Name>
+      <Value>550</Value>
+    </Effect>
+    <Effect>
+      <Id>43</Id>
+      <Name>Сопротивление холоду</Name>
+      <Value>550</Value>
+    </Effect>
+    <Effect>
+      <Id>44</Id>
+      <Name>Сопротивление электричеству</Name>
+      <Value>550</Value>
+    </Effect>
+    <Effect>
+      <Id>45</Id>
+      <Name>Сопротивление ядам</Name>
+      <Value>593</Value>
+    </Effect>
+    <Effect>
+      <Id>46</Id>
+      <Name>Страх</Name>
+      <Value>602</Value>
+    </Effect>
+    <Effect>
+      <Id>47</Id>
+      <Name>Урон запасу сил</Name>
+      <Value>275</Value>
+    </Effect>
+    <Effect>
+      <Id>48</Id>
+      <Name>Урон здоровью</Name>
+      <Value>23</Value>
+    </Effect>
+    <Effect>
+      <Id>49</Id>
+      <Name>Урон магии</Name>
+      <Value>337</Value>
+    </Effect>
+    <Effect>
+      <Id>50</Id>
+      <Name>Уязвимость к магии</Name>
+      <Value>330</Value>
+    </Effect>
+    <Effect>
+      <Id>51</Id>
+      <Name>Уязвимость к огню</Name>
+      <Value>307</Value>
+    </Effect>
+    <Effect>
+      <Id>52</Id>
+      <Name>Уязвимость к холоду</Name>
+      <Value>256</Value>
+    </Effect>
+    <Effect>
+      <Id>53</Id>
+      <Name>Уязвимость к электричеству</Name>
+      <Value>359</Value>
+    </Effect>
+    <Effect>
+      <Id>54</Id>
+      <Name>Уязвимость к яду</Name>
+      <Value>330</Value>
+    </Effect>
+  </Effects>
+  <Items>
+    <Item>
+      <Name>Абесинский окунь</Name>
+      <Effects>
+        <int>52</int>
+        <int>35</int>
+        <int>54</int>
+        <int>24</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Алый корень Нирна</Name>
+      <Effects>
+        <int>48</int>
+        <int>47</int>
+        <int>10</int>
+        <int>41</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Белянка</Name>
+      <Effects>
+        <int>52</int>
+        <int>36</int>
+        <int>4</int>
+        <int>13</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Бесовский гриб</Name>
+      <Effects>
+        <int>48</int>
+        <int>7</int>
+        <int>14</int>
+        <int>3</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Бивень кабана</Name>
+      <Effects>
+        <int>17</int>
+        <int>18</int>
+        <int>22</int>
+        <int>0</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Бойцовая рыбка</Name>
+      <Effects>
+        <int>48</int>
+        <int>27</int>
+        <int>5</int>
+        <int>37</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Болотный стручок</Name>
+      <Effects>
+        <int>44</int>
+        <int>8</int>
+        <int>14</int>
+        <int>3</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Большие рога</Name>
+      <Effects>
+        <int>2</int>
+        <int>17</int>
+        <int>5</int>
+        <int>15</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Бородатый мох</Name>
+      <Effects>
+        <int>49</int>
+        <int>18</int>
+        <int>16</int>
+        <int>33</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Вересковое сердце</Name>
+      <Effects>
+        <int>4</int>
+        <int>22</int>
+        <int>14</int>
+        <int>21</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Ветка чертополоха</Name>
+      <Effects>
+        <int>43</int>
+        <int>11</int>
+        <int>45</int>
+        <int>36</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Виноград джазби</Name>
+      <Effects>
+        <int>50</int>
+        <int>21</int>
+        <int>40</int>
+        <int>12</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Вредозобник</Name>
+      <Effects>
+        <int>12</int>
+        <int>11</int>
+        <int>13</int>
+        <int>7</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Гигантский лишайник</Name>
+      <Effects>
+        <int>53</int>
+        <int>12</int>
+        <int>54</int>
+        <int>4</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Глаз Саблезуба</Name>
+      <Effects>
+        <int>2</int>
+        <int>12</int>
+        <int>49</int>
+        <int>3</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Гниль Намиры</Name>
+      <Effects>
+        <int>49</int>
+        <int>23</int>
+        <int>46</int>
+        <int>39</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Голубой горноцвет</Name>
+      <Effects>
+        <int>3</int>
+        <int>30</int>
+        <int>18</int>
+        <int>16</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Двемерское масло</Name>
+      <Effects>
+        <int>50</int>
+        <int>28</int>
+        <int>40</int>
+        <int>4</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Древесина выжженного сприггана</Name>
+      <Effects>
+        <int>51</int>
+        <int>27</int>
+        <int>16</int>
+        <int>5</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Жареная злокрысья кожа</Name>
+      <Effects>
+        <int>2</int>
+        <int>9</int>
+        <int>45</int>
+        <int>3</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Желе нетча</Name>
+      <Effects>
+        <int>14</int>
+        <int>37</int>
+        <int>2</int>
+        <int>46</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Желе пепельного прыгуна</Name>
+      <Effects>
+        <int>3</int>
+        <int>32</int>
+        <int>44</int>
+        <int>52</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Желтый горноцвет</Name>
+      <Effects>
+        <int>45</int>
+        <int>39</int>
+        <int>24</int>
+        <int>15</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Жемчужина</Name>
+      <Effects>
+        <int>2</int>
+        <int>22</int>
+        <int>4</int>
+        <int>44</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Живица сприггана</Name>
+      <Effects>
+        <int>16</int>
+        <int>26</int>
+        <int>31</int>
+        <int>27</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Жир тролля</Name>
+      <Effects>
+        <int>45</int>
+        <int>25</int>
+        <int>0</int>
+        <int>48</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Зубы ледяного привидения</Name>
+      <Effects>
+        <int>52</int>
+        <int>36</int>
+        <int>10</int>
+        <int>51</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Икра лососевая</Name>
+      <Effects>
+        <int>1</int>
+        <int>21</int>
+        <int>4</int>
+        <int>2</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Икра рыбы-убийцы</Name>
+      <Effects>
+        <int>45</int>
+        <int>29</int>
+        <int>7</int>
+        <int>17</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Клешня грязевого краба</Name>
+      <Effects>
+        <int>2</int>
+        <int>9</int>
+        <int>45</int>
+        <int>42</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Клык саблезуба</Name>
+      <Effects>
+        <int>2</int>
+        <int>36</int>
+        <int>31</int>
+        <int>54</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Клюв ястреба</Name>
+      <Effects>
+        <int>2</int>
+        <int>43</int>
+        <int>37</int>
+        <int>44</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Коготь ворожеи</Name>
+      <Effects>
+        <int>41</int>
+        <int>8</int>
+        <int>26</int>
+        <int>20</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Корень трамы</Name>
+      <Effects>
+        <int>53</int>
+        <int>37</int>
+        <int>49</int>
+        <int>5</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Корень Нирна</Name>
+      <Effects>
+        <int>48</int>
+        <int>47</int>
+        <int>10</int>
+        <int>41</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Корень жарницы</Name>
+      <Effects>
+        <int>48</int>
+        <int>49</int>
+        <int>47</int>
+        <int>16</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Костная мука</Name>
+      <Effects>
+        <int>47</int>
+        <int>42</int>
+        <int>30</int>
+        <int>11</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Красный горноцвет</Name>
+      <Effects>
+        <int>4</int>
+        <int>13</int>
+        <int>21</int>
+        <int>48</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Кровавый венец</Name>
+      <Effects>
+        <int>51</int>
+        <int>22</int>
+        <int>54</int>
+        <int>41</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Крыло лунного мотылька</Name>
+      <Effects>
+        <int>49</int>
+        <int>32</int>
+        <int>39</int>
+        <int>10</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Крыло мотылька предка</Name>
+      <Effects>
+        <int>47</int>
+        <int>30</int>
+        <int>16</int>
+        <int>26</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Крыло монарха</Name>
+      <Effects>
+        <int>3</int>
+        <int>20</int>
+        <int>6</int>
+        <int>49</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Крыло синей бабочки</Name>
+      <Effects>
+        <int>47</int>
+        <int>30</int>
+        <int>16</int>
+        <int>26</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Куриное яйцо</Name>
+      <Effects>
+        <int>41</int>
+        <int>16</int>
+        <int>1</int>
+        <int>6</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Лаванда</Name>
+      <Effects>
+        <int>41</int>
+        <int>17</int>
+        <int>13</int>
+        <int>30</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Лиловый горноцвет</Name>
+      <Effects>
+        <int>2</int>
+        <int>35</int>
+        <int>8</int>
+        <int>43</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Лунный сахар</Name>
+      <Effects>
+        <int>51</int>
+        <int>43</int>
+        <int>4</int>
+        <int>40</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Лютый гриб</Name>
+      <Effects>
+        <int>47</int>
+        <int>0</int>
+        <int>3</int>
+        <int>31</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Маленькая жемчужина</Name>
+      <Effects>
+        <int>2</int>
+        <int>33</int>
+        <int>24</int>
+        <int>43</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Маленькие рога</Name>
+      <Effects>
+        <int>54</int>
+        <int>24</int>
+        <int>6</int>
+        <int>48</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Медвежьи когти</Name>
+      <Effects>
+        <int>2</int>
+        <int>18</int>
+        <int>33</int>
+        <int>16</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Медовые соты</Name>
+      <Effects>
+        <int>2</int>
+        <int>22</int>
+        <int>32</int>
+        <int>11</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Мерцающий цветок</Name>
+      <Effects>
+        <int>41</int>
+        <int>46</int>
+        <int>39</int>
+        <int>14</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Мора тапинелла</Name>
+      <Effects>
+        <int>4</int>
+        <int>7</int>
+        <int>38</int>
+        <int>28</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Морозная мириам</Name>
+      <Effects>
+        <int>43</int>
+        <int>35</int>
+        <int>13</int>
+        <int>15</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Морозная соль</Name>
+      <Effects>
+        <int>51</int>
+        <int>43</int>
+        <int>4</int>
+        <int>30</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Морской желудь</Name>
+      <Effects>
+        <int>49</int>
+        <int>1</int>
+        <int>39</int>
+        <int>29</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Мох императорского зонта</Name>
+      <Effects>
+        <int>48</int>
+        <int>21</int>
+        <int>39</int>
+        <int>25</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Мухомор</Name>
+      <Effects>
+        <int>42</int>
+        <int>25</int>
+        <int>0</int>
+        <int>38</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Огненная соль</Name>
+      <Effects>
+        <int>52</int>
+        <int>42</int>
+        <int>4</int>
+        <int>40</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Оранжевая стрекоза</Name>
+      <Effects>
+        <int>2</int>
+        <int>13</int>
+        <int>29</int>
+        <int>7</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Палец великана</Name>
+      <Effects>
+        <int>47</int>
+        <int>18</int>
+        <int>37</int>
+        <int>15</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Паслен</Name>
+      <Effects>
+        <int>48</int>
+        <int>16</int>
+        <int>6</int>
+        <int>34</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Паучье яйцо</Name>
+      <Effects>
+        <int>47</int>
+        <int>16</int>
+        <int>23</int>
+        <int>19</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пелена дымка</Name>
+      <Effects>
+        <int>2</int>
+        <int>34</int>
+        <int>37</int>
+        <int>41</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пепел отродья</Name>
+      <Effects>
+        <int>11</int>
+        <int>42</int>
+        <int>26</int>
+        <int>13</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Перья ворожеи</Name>
+      <Effects>
+        <int>49</int>
+        <int>30</int>
+        <int>0</int>
+        <int>53</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Перья фелсаадской крачки</Name>
+      <Effects>
+        <int>3</int>
+        <int>32</int>
+        <int>9</int>
+        <int>41</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Перья ястреба</Name>
+      <Effects>
+        <int>9</int>
+        <int>32</int>
+        <int>33</int>
+        <int>35</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пепельная лоза</Name>
+      <Effects>
+        <int>47</int>
+        <int>10</int>
+        <int>42</int>
+        <int>34</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Ползучая лоза</Name>
+      <Effects>
+        <int>4</int>
+        <int>15</int>
+        <int>37</int>
+        <int>50</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Прах Берита</Name>
+      <Effects>
+        <int>47</int>
+        <int>42</int>
+        <int>30</int>
+        <int>11</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Прах вампира</Name>
+      <Effects>
+        <int>10</int>
+        <int>4</int>
+        <int>39</int>
+        <int>9</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пушица</Name>
+      <Effects>
+        <int>41</int>
+        <int>21</int>
+        <int>22</int>
+        <int>20</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пчела</Name>
+      <Effects>
+        <int>2</int>
+        <int>11</int>
+        <int>38</int>
+        <int>53</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пчелиное гнездо</Name>
+      <Effects>
+        <int>45</int>
+        <int>32</int>
+        <int>35</int>
+        <int>34</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Пшеница</Name>
+      <Effects>
+        <int>3</int>
+        <int>18</int>
+        <int>15</int>
+        <int>8</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Светящаяся пыль</Name>
+      <Effects>
+        <int>49</int>
+        <int>16</int>
+        <int>34</int>
+        <int>44</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Светящийся гриб</Name>
+      <Effects>
+        <int>44</int>
+        <int>34</int>
+        <int>31</int>
+        <int>18</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Сердце Даэдра</Name>
+      <Effects>
+        <int>3</int>
+        <int>15</int>
+        <int>49</int>
+        <int>46</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Серебристый окунь</Name>
+      <Effects>
+        <int>2</int>
+        <int>15</int>
+        <int>12</int>
+        <int>43</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Синяя стрекоза</Name>
+      <Effects>
+        <int>44</int>
+        <int>29</int>
+        <int>3</int>
+        <int>46</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Сиродильский лопатехвост</Name>
+      <Effects>
+        <int>47</int>
+        <int>24</int>
+        <int>46</int>
+        <int>12</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Снежные ягоды</Name>
+      <Effects>
+        <int>42</int>
+        <int>26</int>
+        <int>43</int>
+        <int>44</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Собачий корень</Name>
+      <Effects>
+        <int>47</int>
+        <int>33</int>
+        <int>19</int>
+        <int>14</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Соль пустоты</Name>
+      <Effects>
+        <int>53</int>
+        <int>41</int>
+        <int>48</int>
+        <int>21</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Соль</Name>
+      <Effects>
+        <int>50</int>
+        <int>24</int>
+        <int>5</int>
+        <int>40</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Стержневой корень</Name>
+      <Effects>
+        <int>50</int>
+        <int>28</int>
+        <int>40</int>
+        <int>4</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Стручок колючей травы</Name>
+      <Effects>
+        <int>42</int>
+        <int>53</int>
+        <int>23</int>
+        <int>35</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Толченый бивень мамонта</Name>
+      <Effects>
+        <int>2</int>
+        <int>35</int>
+        <int>51</int>
+        <int>46</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Торакс светлячка</Name>
+      <Effects>
+        <int>2</int>
+        <int>8</int>
+        <int>50</int>
+        <int>17</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Травяной стручок</Name>
+      <Effects>
+        <int>45</int>
+        <int>13</int>
+        <int>27</int>
+        <int>4</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Усик коруса-охотника</Name>
+      <Effects>
+        <int>47</int>
+        <int>30</int>
+        <int>16</int>
+        <int>26</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Ухо фалмера</Name>
+      <Effects>
+        <int>48</int>
+        <int>0</int>
+        <int>45</int>
+        <int>23</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Хвост злокрыса</Name>
+      <Effects>
+        <int>15</int>
+        <int>12</int>
+        <int>48</int>
+        <int>32</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Хисткарп</Name>
+      <Effects>
+        <int>2</int>
+        <int>21</int>
+        <int>15</int>
+        <int>1</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Человеческое сердце</Name>
+      <Effects>
+        <int>48</int>
+        <int>49</int>
+        <int>16</int>
+        <int>0</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Человечье мясо</Name>
+      <Effects>
+        <int>48</int>
+        <int>14</int>
+        <int>4</int>
+        <int>35</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Чеснок</Name>
+      <Effects>
+        <int>45</int>
+        <int>17</int>
+        <int>40</int>
+        <int>39</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Чешуйчатка</Name>
+      <Effects>
+        <int>50</int>
+        <int>28</int>
+        <int>38</int>
+        <int>37</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Чешуя рыбы-убийцы</Name>
+      <Effects>
+        <int>43</int>
+        <int>7</int>
+        <int>36</int>
+        <int>22</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Эктоплазма</Name>
+      <Effects>
+        <int>4</int>
+        <int>34</int>
+        <int>21</int>
+        <int>48</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Эльфийское ухо</Name>
+      <Effects>
+        <int>4</int>
+        <int>19</int>
+        <int>52</int>
+        <int>42</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Ягоды можжевельника</Name>
+      <Effects>
+        <int>51</int>
+        <int>19</int>
+        <int>39</int>
+        <int>15</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Ядовитое соцветие</Name>
+      <Effects>
+        <int>48</int>
+        <int>46</int>
+        <int>37</int>
+        <int>5</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Ядовитый колокольчик</Name>
+      <Effects>
+        <int>48</int>
+        <int>11</int>
+        <int>5</int>
+        <int>54</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Язык дракона</Name>
+      <Effects>
+        <int>42</int>
+        <int>20</int>
+        <int>28</int>
+        <int>25</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Яйцо коруса</Name>
+      <Effects>
+        <int>54</int>
+        <int>17</int>
+        <int>49</int>
+        <int>10</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Яйцо оригамы</Name>
+      <Effects>
+        <int>3</int>
+        <int>33</int>
+        <int>47</int>
+        <int>50</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Яйцо соснового дрозда</Name>
+      <Effects>
+        <int>2</int>
+        <int>23</int>
+        <int>54</int>
+        <int>44</int>
+      </Effects>
+    </Item>
+    <Item>
+      <Name>Яйцо ястреба</Name>
+      <Effects>
+        <int>41</int>
+        <int>1</int>
+        <int>16</int>
+        <int>6</int>
+      </Effects>
+    </Item>    
+  </Items>
+</AlchemyBase>
